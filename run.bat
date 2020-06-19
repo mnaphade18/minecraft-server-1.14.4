@@ -1,0 +1,1 @@
+java -Xmx1G -Xms800M -jar server.jar
