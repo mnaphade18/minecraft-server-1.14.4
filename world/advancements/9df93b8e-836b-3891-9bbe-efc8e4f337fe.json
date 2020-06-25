@@ -585,6 +585,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-06-25 23:34:53 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-06-20 19:28:17 +0530"
@@ -642,6 +648,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2020-06-20 19:16:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-06-25 17:11:16 +0530"
     },
     "done": true
   },
@@ -810,6 +822,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-06-21 16:46:44 +0530",
+      "minecraft:ghast": "2020-06-25 23:34:53 +0530",
       "minecraft:spider": "2020-06-25 15:12:08 +0530",
       "minecraft:creeper": "2020-06-21 16:51:50 +0530",
       "minecraft:zombie": "2020-06-21 16:51:35 +0530"
@@ -1071,6 +1084,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-06-21 16:08:21 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-06-25 23:43:58 +0530"
     },
     "done": true
   },
@@ -1368,6 +1387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2020-06-25 23:25:53 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-06-25 15:16:09 +0530"
@@ -1622,6 +1647,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2020-06-20 18:59:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2020-06-25 23:25:53 +0530"
     },
     "done": true
   },
