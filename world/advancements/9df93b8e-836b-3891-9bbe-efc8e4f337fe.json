@@ -254,6 +254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2020-07-05 19:22:37 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-06-20 19:00:51 +0530"
@@ -335,6 +341,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2020-06-20 18:59:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2020-07-05 19:22:37 +0530"
     },
     "done": true
   },
@@ -1606,6 +1618,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2020-07-05 21:08:06 +0530",
       "cooked_chicken": "2020-06-20 19:02:19 +0530"
     },
     "done": false
@@ -2024,6 +2037,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-07-05 17:18:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-07-05 19:21:01 +0530"
     },
     "done": true
   },
