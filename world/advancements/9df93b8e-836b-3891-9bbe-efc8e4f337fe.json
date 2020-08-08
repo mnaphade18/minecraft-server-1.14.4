@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2020-08-08 19:22:35 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2020-06-29 19:07:48 +0530"
@@ -185,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2020-08-08 19:13:22 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2020-06-20 18:58:14 +0530"
@@ -344,6 +356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2020-08-08 18:57:53 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2020-06-20 20:46:27 +0530"
@@ -422,6 +440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2020-08-08 18:59:09 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2020-07-25 16:58:44 +0530"
@@ -431,6 +455,18 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2020-06-20 18:59:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2020-08-08 19:15:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2020-08-08 18:57:53 +0530"
     },
     "done": true
   },
@@ -647,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-08-08 18:57:53 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2020-08-01 16:17:36 +0530"
@@ -696,6 +738,7 @@
       "minecraft:skeleton": "2020-06-21 16:46:44 +0530",
       "minecraft:zombie_pigman": "2020-06-27 02:07:18 +0530",
       "minecraft:ghast": "2020-06-25 23:34:53 +0530",
+      "minecraft:guardian": "2020-08-08 18:50:11 +0530",
       "minecraft:magma_cube": "2020-06-27 22:29:29 +0530",
       "minecraft:spider": "2020-06-25 15:12:08 +0530",
       "minecraft:creeper": "2020-06-21 16:51:50 +0530",
@@ -815,6 +858,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-06-21 16:08:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-08-08 18:57:53 +0530"
     },
     "done": true
   },
@@ -1214,6 +1263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2020-08-08 19:15:09 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_oramge_dye": "2020-06-29 19:24:31 +0530"
@@ -1295,6 +1350,18 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-06-20 19:00:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2020-08-08 19:07:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2020-08-08 19:15:09 +0530"
     },
     "done": true
   },
@@ -1612,6 +1679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-08-08 19:07:33 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2020-06-27 02:08:29 +0530"
@@ -1738,6 +1811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2020-08-08 19:13:22 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-06-20 19:00:34 +0530"
@@ -1777,6 +1856,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2020-08-01 16:17:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-08-08 19:07:33 +0530"
     },
     "done": true
   },
@@ -1991,6 +2076,7 @@
       "cooked_beef": "2020-08-01 22:39:47 +0530",
       "cooked_cod": "2020-07-26 17:01:16 +0530",
       "cooked_chicken": "2020-06-20 19:02:19 +0530",
+      "cod": "2020-08-08 19:02:00 +0530",
       "cooked_salmon": "2020-07-26 17:15:28 +0530"
     },
     "done": false
@@ -2100,6 +2186,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2020-07-05 16:10:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2020-08-08 19:15:09 +0530"
     },
     "done": true
   },
@@ -2235,6 +2327,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-06-20 19:08:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2020-08-08 18:57:53 +0530"
     },
     "done": true
   },
@@ -2565,6 +2663,12 @@
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-08-01 20:40:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2020-08-08 19:13:22 +0530"
     },
     "done": true
   },
@@ -2928,6 +3032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-08-08 18:57:53 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-06-20 19:00:27 +0530"
@@ -3237,6 +3347,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2020-07-11 19:01:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2020-08-08 19:13:22 +0530"
     },
     "done": true
   },
